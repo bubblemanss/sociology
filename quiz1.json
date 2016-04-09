@@ -398,5 +398,355 @@
 			"d":"Discovery of possible life on Mars"
 		},
 		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The study of past cultures, preindustrial societies that continue today and the origins of men and women are attributed to which orientation in the social sciences?",
+			"a":"Sociology",
+			"b":"Anthropology",
+			"c":"Economics",
+			"d":"History"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"An hypothesis is usually used in which kind of study?",
+			"a":"quantitative",
+			"b":"qualitative",
+			"c":"observatory",
+			"d":"active interviewing"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which of the following would be of interest to a qualitative sociologist?",
+			"a":"crime rates",
+			"b":"the emotional effects of going through a divorce",
+			"c":"a comparative study on the number of homeless people in various cities",
+			"d":"a survey about gender and earning potential"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"This term is used to describe a combination of variables to position or score people on criteria such as income level, level ofeducation, occupation, and area of residence.",
+			"a":"ascribed status",
+			"b":"relative privilege status",
+			"c":"minority status",
+			"d":"socio-economic status"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"In general, 'commonsense' knowledge rests on:",
+			"a":"Findings that have been tested by researchers",
+			"b":"Systematic analysis of facts",
+			"c":"Recorded information that is analyzed in relationship to other data",
+			"d":"Commonly held beliefs that might be based on experiences, sometimes accurate but not always reliable"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"When Prof. Jim Curtis talked about culture, he stated that",
+			"a":"our biological responses to stimulus are independent of culture restrictions.",
+			"b":"cultures are consistent throughout the world.",
+			"c":"even our biological responses are shaped by culture.",
+			"d":"culture does not, generally, have any influence on people's biological needs."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"In attempting to understand social behaviour sociologists rely on an unusual type of creative thinking. __ described this kind of thinking as sociological imagination.",
+			"a":"Wright Mills",
+			"b":"Max Weber",
+			"c":"Emile Durkheim",
+			"d":"Karl Marx"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Mores are:",
+			"a":"Norms governing everyday social behaviour whose violation raises comparatively little concern",
+			"b":"Norms that are deemed highly necessary to the welfare of a society",
+			"c":"Norms that are made by government for society, interpreted by the courts, and backed by the power of the state",
+			"d":"Both Norms that are deemed highly necessary to the welfare of a society and Norms that are made by government for society, interpreted by the courts, and backed by the power of the state"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"As described in the text, which of the following is not a 'main area' of queer theory?",
+			"a":"desire",
+			"b":"sameness",
+			"c":"language",
+			"d":"identity"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The term __ refers to the body of knowledge obtained by methods based on systematic observation",
+			"a":"Science",
+			"b":"Purification",
+			"c":"Sociological imagination",
+			"d":"Enquiry"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"In Prof. Jim Curtis's talk on culture, he suggests that culture can be described",
+			"a":"as a net in which we are all caught.",
+			"b":"as an envelope surrounding us all.",
+			"c":"by the ways that power is distributed.",
+			"d":"by the form of language that is used by a country."
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Karl Marx saw the factory as the center of conflict between society's exploiters and its exploited masses.",
+			"a":"True",
+			"b":"False",
+			"c":"",
+			"d":""
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"A central concern in the writings of hooks is how black women's idendities have too often been",
+			"a":"erased",
+			"b":"marginalized",
+			"c":"ridiculed",
+			"d":"ignored"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Anti-positivism is a theoretical approach that considers knowledge and understanding to be the result of",
+			"a":"science",
+			"b":"positivism",
+			"c":"sociological imagination",
+			"d":"human subjectivity"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Ethical guidelines aim to ensure a balance in research between",
+			"a":"informed consent and covert research.",
+			"b":"eliminating sexism in research and the independence of researchers.",
+			"c":"risks and benefits.",
+			"d":"funding and the independence of researchers."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Which of the following statements best reflects feminist theories?",
+			"a":"Men and women should be social and political equals.",
+			"b":"Men and women are social and political equals.",
+			"c":"Interests of society reflect those of both men and women.",
+			"d":"Feminist theories argue that society is characterized by equality between men and women."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The functionalist perspective refers to unconscious or unintended functions or hidden purposes as:",
+			"a":"Latent functions.",
+			"b":"Manifest functions.",
+			"c":"Macrofunctions.",
+			"d":"Quasi-functions."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which sociological perspective sees the social world as being in continual struggle?",
+			"a":"Functionalist perspective",
+			"b":"Conflict perspective",
+			"c":"Interactionist perspective",
+			"d":"Dramaturgical perspective"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"A theme underlying all of modern social theories is that of",
+			"a":"power.",
+			"b":"social problems and their causes.",
+			"c":"face-to-face interactions.",
+			"d":"social networks and their consequences for individuals."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which of the following is a member of the social sciences?",
+			"a":"Political science",
+			"b":"Economics",
+			"c":"Geology",
+			"d":"Anthropology"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"A dominant ideology is a:",
+			"a":"Set of cultural beliefs that help to maintain powerful social, economic, and political interests",
+			"b":"Subculture that rejects societal norms and values and seeks an alternative lifestyle",
+			"c":"Specialized language used by members of a group or subculture",
+			"d":"Both subculture that rejects societal norms and values and seeks an alternative lifestyle and specialized language used by members of a group or subculture"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"In Said's analysis, literary representations that draw fundamental distinctions between the Orient (East) and the Occident (West) exemplify this kind of Orientalism:",
+			"a":"imaginative",
+			"b":"creative",
+			"c":"institutional",
+			"d":"academic"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"According to Karl Marx, which of the following individuals would be a member of the proletariat?",
+			"a":"The owner of a small shoe store",
+			"b":"Wayne Gretzky",
+			"c":"A corporation owner",
+			"d":"An assembly-line worker in a factory"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"__ is the study of various aspects of human society",
+			"a":"Social science",
+			"b":"Natural science",
+			"c":"Fine arts",
+			"d":"Biology"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Ideology is",
+			"a":"used to justify current systems of domination and inequality",
+			"b":"a deive used by functionalists to explain the workings of society",
+			"c":"a term used by symbolic interactionists to explain how individuals interact with each other",
+			"d":"empiracally based on scientific findings"
+		},
+		"answer":""
+	},
+	{
+		"question":{
+			"q":"In Prof. Jim Curtis's talk on research, he states that in analyzing birth dates, he showed that",
+			"a":"people who marry early in life earn less money over their lifetime",
+			"b":"educational attainment is not correlated to lifetime earning power",
+			"c":"tall people had more earning potential over their lifetime than short people",
+			"d":"people born during certain months of the year earned more money during their lifetime"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"All feminist theories share a (an)",
+			"a":"ideal of the perfect woman",
+			"b":"advocacy for social change",
+			"c":"single history",
+			"d":"focus on the family"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"In Prof. Jim Curtis's talk on 'Three Basic Beliefs', normative/evaluative beliefs include statements about",
+			"a":"crime and culture",
+			"b":"the correct forms of culture",
+			"c":"specifically religion and culture",
+			"d":"what are the 'shoulds' and 'should nots'"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Emile Durkheim's sociology draws connections between rising suicide rates and low levels of",
+			"a":"social integration",
+			"b":"self-esteem",
+			"c":"employment",
+			"d":"religious affiliation"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"When we speak specifically about a group of theorists making pioneering contributions to the development of a science of human group behaviour, which of the following academic disciplines is it referring to?",
+			"a":"Philosophy",
+			"b":"Sociology",
+			"c":"Anthropology",
+			"d":"Religion"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"According to __, those who hold power define and perpetuate a culture's value system.",
+			"a":"symbolic interactionists",
+			"b":"conflict theorists",
+			"c":"post-modernists",
+			"d":"functionalists"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"To distinguish cultures, most researchers consider this to be the key identifier of group boundaries",
+			"a":"language",
+			"b":"material culture",
+			"c":"laws",
+			"d":"taboos"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The unintended consequences of an action or social pattern are referred to by functionalist theorists, such as Merton, as",
+			"a":"latent functions",
+			"b":"manifest functions",
+			"c":"hidden functions",
+			"d":"invisible functions"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"When a given measurement is said to be accurately measuring the concept that the research claims is being measured, then the study is",
+			"a":"true",
+			"b":"reliable",
+			"c":"valid",
+			"d":"verifiable"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Smith argues that sociology has:",
+			"a":"Too much of a Eurocentric bias",
+			"b":"Improved the lot of Canadian women",
+			"c":"Ignored the experiences of immigrants",
+			"d":"Ignored the experiences of women"
+		},
+		"answer":"d"
 	}
 ]

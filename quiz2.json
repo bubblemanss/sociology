@@ -398,5 +398,325 @@
 			"d":"family, peer, and media socialization"
 		},
 		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Bowles and Gintis argue that schools in a capitalist society are structured in such a way as to prevent social class",
+			"a":"consciousness",
+			"b":"solidarity",
+			"c":"mobilitiy",
+			"d":"success"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Understood sociologically, our most important and influential agent of socialization",
+			"a":"school",
+			"b":"peer groups",
+			"c":"family",
+			"d":"mass media"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"When universities are expected to function in ever more efficient ways, with a high degree of predictability and standardization, it is accurate to say that they are becoming",
+			"a":"accountable",
+			"b":"modernized",
+			"c":"McDonaldized",
+			"d":"more streamlined"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Functionalists would agree with all of the following statements except",
+			"a":"schools are functional because they reflect the values and interests of society",
+			"b":"learning happens by ways of hidden curriculum, which influences and shapes students by teaching them to be obedient and to value competitiveness",
+			"c":"the education system serves a function that reflects those in positions",
+			"d":"schools are functional for children because they help them transition into functioning citizens"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Social status refers to",
+			"a":"positions given to individuals by the government",
+			"b":"specific positions within a given class structure",
+			"c":"positions based on biological strengths",
+			"d":"positions outlined by social segregation"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Massification of post-secondary education attainment refers to",
+			"a":"a massive increase of higher education participation that occurred between 1960-2005",
+			"b":"a massive increase of higher education participation that occurred between 1970-1990",
+			"c":"a massive increase of higher education participation that occurred between 1940-1960",
+			"d":"a massive increase of higher education participation that occurred between 1960-1970"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"What reason do most women give for working part-time?",
+			"a":"child-rearing and other family responsibilities",
+			"b":"no university or college degree",
+			"c":"pressure from their husband",
+			"d":"gender-based wage gap"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The __ stage is characterized by children beginning to interact with others, wherein children begin to develop the I, with the me forming in the background",
+			"a":"game",
+			"b":"preparatory",
+			"c":"role",
+			"d":"play"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"All of the following are possible negative consequences of McDonaldization in the realm of higher education except",
+			"a":"increased tuition costs",
+			"b":"fewer faculty members",
+			"c":"increased class sizes",
+			"d":"increased quality and access of education"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Which answer reflects Kubler-Ross' stages of coming to terms with our own mortality?",
+			"a":"denial, bargaining, reflection, reasoning, death",
+			"b":"denial, hope, recovery, depression, death",
+			"c":"denial, anger, bargaining, depression, acceptance",
+			"d":"anger, bargaining, hope, shutting down"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"According to __, schooling serves the capitalist aims of profit and compliant workers",
+			"a":"feminists",
+			"b":"conflict theorists",
+			"c":"symbolic interactionists",
+			"d":"functionalists"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The idea that people get what they deserve is called",
+			"a":"social stratification",
+			"b":"ideology",
+			"c":"meritocracy",
+			"d":"a person's right"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"'Students from privileged class backgrounds are more likely to continue to higher levels of schooling than are students from lower social class backgrounds.' This statement supports the idea that schools are structured in such a way as to prevent social class mobility. This supports which sociological approach?",
+			"a":"conflict theory",
+			"b":"feminism",
+			"c":"functionalism",
+			"d":"symbolic interactionism"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"__ are interested in the meanings attached to school practices.",
+			"a":"Conflict theorists",
+			"b":"Functionalists",
+			"c":"Symbolic interactionists",
+			"d":"Feminists"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"According to this perspective, poor people need to work harder to transcend their poverty",
+			"a":"blaming the system",
+			"b":"scapegoat theory",
+			"c":"poor bashing",
+			"d":"blaming the victim"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"What has been the greatest change in Canada's labour force since the 1960s?",
+			"a":"high numbers of women and men motivated to work past the age of 65",
+			"b":"high numbers of employed, married women with children",
+			"c":"high numbers of employed and ambitious single women",
+			"d":"low numbers of motivated persons willing to do administrative work"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Which term best describes systems of thought that govern how we might think, speak, or act about a particular topic?",
+			"a":"discourse",
+			"b":"ideas",
+			"c":"ideology",
+			"d":"thought collectives"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"According to __, society needs to attract the best people to fill important social roles.",
+			"a":"feminism",
+			"b":"conflict theory",
+			"c":"functionalism",
+			"d":"symbolic interactionism"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"When Gabriela assumes the position of another to better understand that person's perspective, she is embodying",
+			"a":"anticipatory socialization",
+			"b":"role-taking",
+			"c":"secondary socialization",
+			"d":"role distance"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Social class is based on all of the following except",
+			"a":"individuals who are biologically superior to others",
+			"b":"individuals who work hard for success",
+			"c":"individuals being born into positions that lack resources",
+			"d":"individuals being born into positions of authority"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"When sociologists refer to a society's hierarchical ranking of people into social classes, they are talking about",
+			"a":"social mobility",
+			"b":"status group systems",
+			"c":"alienation",
+			"d":"social stratification"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"The annual NHL draft is a concentrated occasion in which male bodies are",
+			"a":"catalogued, ranked, and commodified like livestock",
+			"b":"devalued to the point of ridicule",
+			"c":"normalized",
+			"d":"worshipped"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"A setting in which people are isolated from society and supervised by an administrative staff from morning to night is known as a",
+			"a":"closed institution",
+			"b":"total society",
+			"c":"total institution",
+			"d":"complete society"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"This type of analysis of inequality incorporates the complex relationships between race, gender, ethnicity, and class",
+			"a":"multi-dimensionality",
+			"b":"heterogeneity",
+			"c":"blended",
+			"d":"intersectinoality"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Which of the following is the best definition of emphasized femininity?",
+			"a":"a movement that emerged in opposition to feminism",
+			"b":"the over-sexualization of teenaged females",
+			"c":"a feminist movement that contradicts the ideals of femininity",
+			"d":"the normative ideal of femininity based on compliance with women's subordination to men"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"The universality of women's wage discrimination is known as the",
+			"a":"pink ghetto",
+			"b":"femininity of poverty",
+			"c":"feminization of poverty",
+			"d":"double ghetto"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"When do gendered expectations by families begin?",
+			"a":"puberty",
+			"b":"at birth",
+			"c":"when children enter school",
+			"d":"when children begin talking"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Social stratification refers to",
+			"a":"a society's way of ranking individuals into hierarchical social classes",
+			"b":"an individual's right to have certain resources over others",
+			"c":"how society justly distributes wealth",
+			"d":"the separation of society into those who deserve wealth and those who do not"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"A person who was born female but has always felt more comfortable in the role of a boy or man and as an adult chose to undergo hormone treatments would best be described as being",
+			"a":"hermaphrodite",
+			"b":"transvestite",
+			"c":"transgender",
+			"d":"transsexual"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Who argued that children pass through four distinct stages (sensorimotor, preoperational, conrete operational, and formal operational)?",
+			"a":"Piaget",
+			"b":"Mead",
+			"c":"Freud",
+			"d":"Erikson"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"From a Weberian perspective, people who share similar social status lifestyles, worldviews, occupations, and standards of living share a/an",
+			"a":"occupational group",
+			"b":"social class",
+			"c":"status group",
+			"d":"political party"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"The scientific study of old age and aging is called",
+			"a":"morphology",
+			"b":"ontology",
+			"c":"feral analysis",
+			"d":"gerontology"
+		},
+		"answer":"d"
 	}
 ]
