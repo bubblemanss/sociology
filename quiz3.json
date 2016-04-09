@@ -398,5 +398,235 @@
 			"d":"cell phones"
 		},
 		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Conflict theorists call an environment that creates a fertile setting for crime or criminality, such as one with laws privelging certain groups, as",
+			"a":"a self-fulfilling prophecy",
+			"b":"criminogenic",
+			"c":"deterministic",
+			"d":"fateful"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"This medium of communication used a keypad to send short and long electrical pulses through telegraph lines to be received and translated at the other end",
+			"a":"the phonography",
+			"b":"block printing",
+			"c":"moving pictures",
+			"d":"the telegraphy"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Which perspective suggests that religion is socially constructed and works to control workers?",
+			"a":"conflict theory",
+			"b":"functionalism",
+			"c":"feminism",
+			"d":"symbolic interactionism"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"According to this sociologist, post-modern societies focus on simulation and the creation and interplay of images and signs",
+			"a":"Smith",
+			"b":"Baudrillard",
+			"c":"Marx",
+			"d":"Fourcault"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"According to Cloward and Ohlin (1960), a __ deviant subculture is organized around activities that produce income",
+			"a":"rebellious",
+			"b":"conflict",
+			"c":"criminal",
+			"d":"retreatist"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Which approach investigates media's patriarchal nature?",
+			"a":"feminism",
+			"b":"functionalism",
+			"c":"conflict theory",
+			"d":"symbolic interactionism"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Feminist legal theory holds that the law is instrumental in",
+			"a":"reinforcing class struggles",
+			"b":"society's inability to prevent criminal behaviour in youth",
+			"c":"the subordination of women",
+			"d":"the influence of power on law"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"In Durkheim's analysis of religion, those things that we set apart, ritualize, and at times have deep emotional connections to belong to this realm.",
+			"a":"mystical",
+			"b":"transformative",
+			"c":"sacred",
+			"d":"profane"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"__ suggests that individuals must be present in a deviant 'learning environment' that gives them the opportunity to learn and perform the skills and abilities needed to commit crimes",
+			"a":"Differential association theory",
+			"b":"Conflict theory",
+			"c":"Illegitimate opportunity theory",
+			"d":"Strain theory"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"The __ of the media suggests that the media plays a role in filtering and making comprehensible the huge volume of news stories and issues",
+			"a":"socialization function",
+			"b":"understanding function",
+			"c":"entertainment function",
+			"d":"correlation function"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"__ is a set of organized beliefs about the supernatural or spiritual world that guides behaviour and joins people into communities of believers",
+			"a":"Faith",
+			"b":"A cult",
+			"c":"A sect",
+			"d":"Religion"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Which of the following is not one of the major beliefs that classical criminology developed in relation to?",
+			"a":"Choosing crime is irrational",
+			"b":"Criminal behaviour can be controlled in part throughs swift delivery of justice",
+			"c":"People have free will",
+			"d":"Fear of punishment can lessen criminal activity"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"This approach argues that the media provides a unique and powerful ability to promote common values and beliefs",
+			"a":"feminism",
+			"b":"symbolic interactionism",
+			"c":"functionalism",
+			"d":"conflict theory"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"This famous phrase by McLuhan highlights the importantance of studying the medium in our analyses of technology",
+			"a":"The meaning is in the message",
+			"b":"The message is the medium",
+			"c":"The medium is the message",
+			"d":"the medium is the messenger"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"__ can be defined as the transmission of messages by a person or group through a device to a large audience",
+			"a":"Mass communication",
+			"b":"Modern media",
+			"c":"Mass media",
+			"d":"Virtual communication"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The argument nutritional deficiences can lead to anti-social behaviour is an example of",
+			"a":"classical criminology",
+			"b":"illegitimate opportunity theory",
+			"c":"a functionalist approach",
+			"d":"a biological perspective"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"__ is an informal group without defined structure that often emerges around authoritarian and charismatic leaders",
+			"a":"A sect",
+			"b":"A cult",
+			"c":"Mysticism",
+			"d":"A new religious movement"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"This general term designates all of those behaviours and actions that generate formal response through control and intervention",
+			"a":"crime",
+			"b":"sanction",
+			"c":"prosecution",
+			"d":"deviance"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Theorists from this particular approach propose that individuals must be located in a deviant 'learning environment' to learn and perform the skills and abilities needed to commit crimes",
+			"a":"labelling",
+			"b":"differential association",
+			"c":"illegitimate opportunity",
+			"d":"strain"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Which perspective suggets that religion is an important source of rituals and symbols that help to define people's perceptions of their social world?",
+			"a":"symbolic interactionism",
+			"b":"functionalism",
+			"c":"conflict theory",
+			"d":"feminism"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Elizabeth Cady Stanton's 1895 book 'The Woman's Bible' was one of the first examples of a woman challenging the traditional Christian interpretation of",
+			"a":"gender roles",
+			"b":"property ownership",
+			"c":"sexuality",
+			"d":"charity"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"A religion that identifies with a single, all-powerful, all-knowing god is",
+			"a":"animistic",
+			"b":"monotheistic",
+			"c":"nucleotheistic",
+			"d":"totemistic"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The process by which developed societies move away from explanations based on religion to ones based on science, rationality, and logic is known as",
+			"a":"secularization",
+			"b":"succession",
+			"c":"de-sacralization of society",
+			"d":"civilization process"
+		},
+		"answer":"a"
 	}
 ]	
