@@ -1,0 +1,402 @@
+[
+	{
+		"question":{
+			"q":"Which of the following is the best definition of intersexed individuals?",
+			"a":"people who are addicted to sex",
+			"b":"people who have a gender identity crisis",
+			"c":"people who are born with ambiguous genitalia",
+			"d":"people who self-identify as being feminist"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"__ believed that people behave according to drives and unconscious cognitions.",
+			"a":"Mills",
+			"b":"Freud",
+			"c":"Mead",
+			"d":"Cooley"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The __ stage is when children begin to take on the roles of others.",
+			"a":"game",
+			"b":"play",
+			"c":"preparatory",
+			"d":"role"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The id refers to",
+			"a":"a person's biological drives.",
+			"b":"norms, values, and morals.",
+			"c":"the intermediary between norms and drives.",
+			"d":"the play stage."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"This term makes reference to the fact that women disproportionately live in poverty:",
+			"a":"double ghetto",
+			"b":"pink ghetto",
+			"c":"feminization of poverty",
+			"d":"femininity of poverty"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Parents assigning different chores to daughters and sons is an example of",
+			"a":"gender stereotyping",
+			"b":"gender roles",
+			"c":"gender",
+			"d":"gender preparation"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"By stressing societal norms and values, and by working to socialize next generations, formal and informal education both to contribute to social",
+			"a":"interaction",
+			"b":"reproduction",
+			"c":"production",
+			"d":"inequality"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Research finds that mothers respond more quickly to the cries of their baby girls than their baby boys. How would a sociologist explain this difference?",
+			"a":"Girls are more needy than boys.",
+			"b":"Mothers love and connect with their daughters more than their sons.",
+			"c":"Mothers' responses to their children are influenced by ideas of gender—it's okay for girls to cry, but 'big boys don't cry.'",
+			"d":"Girls' cries are higher pitched and irritating than boys' cries so mothers are more likely to respond quickly to end the crying of girls."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"According to functionalists, men perform the __ role and women perform the __ role.",
+			"a":"instrumental; expressive",
+			"b":"expressive; instrumental",
+			"c":"hegemonic; emphasized",
+			"d":"masculine; feminine"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The institution of education is responsible for the transmission of all of the following except",
+			"a":"knowledge",
+			"b":"skills",
+			"c":"values",
+			"d":"social introduction"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Socialization refers to",
+			"a":"the process that stops in early childhood in which we learn our culture, develop our personalities, and become functioning members of society.",
+			"b":"the process that stops at middle age in which we learn our culture, develop our personalities, and become functioning members of society.",
+			"c":"the lifelong process in which we learn our culture, develop our personalities, and become functioning members of society.",
+			"d":"the process that limits how we learn our culture, develop our personalities, and become functioning members of society."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Which of the following is the best definition of exchange theory?",
+			"a":"Women should be encouraged to enter male-dominated fields of work.",
+			"b":"Aboriginal women and minority women earn less than white women.",
+			"c":"Power flows from bringing resources to a relationship.",
+			"d":"the feminization of poverty"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Which of the following is the best definition of the sociological understanding of gender?",
+			"a":"determination of male or female on the basis of a set of socially agreed-upon biological criteria",
+			"b":"human population can be divided into two binary constructions—male and female",
+			"c":"socially constructed characteristics associated with masculinity and femininity",
+			"d":"feminist social action theory that aims for the elimination of sexual division of labour"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Rhonda believes that social resources are distributed fairly on the basis of who deserves what, and thus students who do not succeed in formal education deserve to occupy less socially valued positions. Such thinking is an example of",
+			"a":"meritocracy",
+			"b":"functionalism",
+			"c":"double indemnity",
+			"d":"acquiescence"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The phrase 'chilly climate' refers to",
+			"a":"women's experiences of gender inequality in the workplace.",
+			"b":"women's experiences of gender inequality on university campuses.",
+			"c":"racial inequality on television.",
+			"d":"homophobia."
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Which of the following best describes the nature versus nurture debate?",
+			"a":"different explanations of human behaviour",
+			"b":"how we should nurture the environment",
+			"c":"different ways individuals act toward one another",
+			"d":"understandings of human biology"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Post-structuralist theory views gender as",
+			"a":"doing",
+			"b":"performance",
+			"c":"shaped by our interactions with others",
+			"d":"intersectional"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Persons who live as the gender they identify as being, with or without sex reassignment procedures, are known as",
+			"a":"androgynous",
+			"b":"transsexual",
+			"c":"intersexed",
+			"d":"transgendered"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Sociologists refer to all of the individuals, groups, and social institutions that develop people as functioning members of society as",
+			"a":"generalized others",
+			"b":"social networks",
+			"c":"significant others",
+			"d":"agents of socialization"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Mead's term for the compilation of attributes that we associate with the average member of society is",
+			"a":"'I.'",
+			"b":"'me.'",
+			"c":"generalized other.",
+			"d":"looking-glass other."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Ideology refers to",
+			"a":"principles based on empirical findings.",
+			"b":"the ideas that run society.",
+			"c":"just ways of stratifying society.",
+			"d":"beliefs and values that support social stratification."
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Less overt aspects of schooling that nonetheless influence and shape students by teaching them to value such things as obedience and competition is referred to by sociologists as the __ curriculum.",
+			"a":"unequal",
+			"b":"underlying",
+			"c":"'real'",
+			"d":"hidden"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"The self-fulfilling prophecy refers to",
+			"a":"'I think, therefore I am.'",
+			"b":"if a person believes something to be real, it will have real consequences.",
+			"c":"how individuals strive for what they wish to be.",
+			"d":"how individuals sometimes come to embody what they are labelled."
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Industrialization and immigration paved the way for __ education.",
+			"a":"capitalist",
+			"b":"macro",
+			"c":"mass",
+			"d":"organic"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"People who we want to impress or gain approval from are known as our",
+			"a":"significant others.",
+			"b":"generalized others.",
+			"c":"alter-egos.",
+			"d":"social compasses."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"When a teacher holds low expectations of a given student or set of students, s/he risks perpetuating the phenomenon known as",
+			"a":"functionalist fulfillment.",
+			"b":"self-fulfilling prophecy.",
+			"c":"blaming the victim.",
+			"d":"'low balling.'"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"This phrase has been used to draw attention to the lack of warmth or encouragement that girls and women often feel in school as a result of sexism.",
+			"a":"double jeopardy",
+			"b":"chilly climate",
+			"c":"hidden curriculum",
+			"d":"hegemonic sexism"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"A closed system refers to",
+			"a":"a system that is based on ascribed status.",
+			"b":"a system that is based on achieved status.",
+			"c":"a system that is closed to foreigners.",
+			"d":"a system closed to inequality."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which sociologist discussed the generalized other?",
+			"a":"Mead",
+			"b":"Cooley",
+			"c":"Erickson",
+			"d":"Freud"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Connell identifies the two culturally dominant forms of masculinity and femininity as __ masculinity and __ femininity.",
+			"a":"violent; passive",
+			"b":"domineering; submissive",
+			"c":"macroscopic; microscopic",
+			"d":"hegemonic; emphasized"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"An action-oriented educational and political strategy for institutional and systemic change that addresses the issue of racism and the interlocking systems of social oppression is known by this category:",
+			"a":"intersectional education",
+			"b":"multi-dimensional education",
+			"c":"anti-racist education",
+			"d":"multicultural education"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A young woman who grows up in a poor family, wins a scholarship to university, and becomes a successful lawyer is an example of which type of mobility?",
+			"a":"intergenerational",
+			"b":"intermediary",
+			"c":"intragenerational",
+			"d":"post-generational"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Cases of extreme social isolation, such as the case of Anna, reveal for sociologists the importance of which of the following in human development?",
+			"a":"love",
+			"b":"language",
+			"c":"acceptance",
+			"d":"nutrition"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The particular composite of thoughts and feelings from which we derive our 'conception of who and what we are' refers to our",
+			"a":"self",
+			"b":"self-esteem",
+			"c":"personality",
+			"d":"feral index"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"__ refers to all of the unconscious, informal, and unwritten rules that reinforce and maintain social conventions within a school environment.",
+			"a":"Dominant ideology",
+			"b":"Hidden curriculum",
+			"c":"Ideal culture",
+			"d":"Cultural capital"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"What tends to be an organizing principle in heterosexual marriages?",
+			"a":"gender",
+			"b":"number of children",
+			"c":"social class",
+			"d":"length of the relationship"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The fact that women are often times paid less than men for the same job is an example of",
+			"a":"social inequality",
+			"b":"social equality",
+			"c":"division of labour",
+			"d":"a just system based on equality of opportunity"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Who was interested in how inequality is reproduced in culture and how aspects of culture contribute to its reproduction?",
+			"a":"Dorothy Smith",
+			"b":"Pierre Bourdieu",
+			"c":"Sandra Acker",
+			"d":"Karl Marx"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Exploring how teachers' categorization of students affects students' experiences of education as well as their opportunities for achieving success in school best reflects which sociological perspective?",
+			"a":"conflict theory",
+			"b":"symbolic interactionism",
+			"c":"functionalism",
+			"d":"feminism"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"As a conflict theorist, Engels argued that gender stratification in capitalist societies was a direct result of",
+			"a":"biological differences",
+			"b":"private property",
+			"c":"the different roles that men and women perform",
+			"d":"family, peer, and media socialization"
+		},
+		"answer":"b"
+	}
+]

@@ -1,0 +1,402 @@
+[
+	{
+		"question":{
+			"q":"Which perspective suggests that religion serves an important purpose?",
+			"a":"conflict theory",
+			"b":"symbolic interactionism",
+			"c":"functionalism",
+			"d":"feminism"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"The reaction of a group that is based on the exaggerated or false perception that some group or behaviour threatens the well being of society is called",
+			"a":"moral panic",
+			"b":"disappropriate risk perception",
+			"c":"risk mongering",
+			"d":"'cable television complex'"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"__ refers to a movement by religious fundamentalists who advocate a literal interpretation of the Bible to promote greater social equality.",
+			"a":"Liberation theology",
+			"b":"Liberal theology",
+			"c":"Doctrine of predestination",
+			"d":"A 'calling'"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"When the police disproportionately pull over members of particular racialized groups for routine vehicle inspections, they are engaging in this type of profiling.",
+			"a":"criminal",
+			"b":"preemptive",
+			"c":"racial",
+			"d":"elitist"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"__ is a form of government in which a god or other supernatural being is seen as the supreme civil ruler.",
+			"a":"Theocracy",
+			"b":"Meritocracy",
+			"c":"Patriarchy",
+			"d":"Monogamy"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Since 1991, crime rates in Canada have been",
+			"a":"increasing",
+			"b":"decreasing",
+			"c":"remaining about the same",
+			"d":"fluctuating unpredicatably"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Symbolic interactionists argue that crime is",
+			"a":"deviant",
+			"b":"learned through social interactions",
+			"c":"the result of class struggles",
+			"d":"the result of unequal opportunities"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"What is the fast-growing religion in the world today?",
+			"a":"secular spirituality",
+			"b":"Christianity",
+			"c":"Islam",
+			"d":"Judaism"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A totem refers to",
+			"a":"the secular aspects of life",
+			"b":"the things that we set apart, ritualize, and at times have deep emotional connections to",
+			"c":"an object that has special significance and meaning for a group of believers",
+			"d":"a pole that has sacred meaning attached to it"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Feminists investigate all of the following in relation to the media except",
+			"a":"media's patriarchal nature",
+			"b":"women in advertising",
+			"c":"the exploitation of women in the pornography industry",
+			"d":"media's tendency to present a culturally relative view of the world"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Which is not a function of religion, according to functionalists?",
+			"a":"Religion promotes social stability",
+			"b":"Religion promotes a sense of belonging",
+			"c":"Religion provides people with a social identity",
+			"d":"Religion functions solely for those in positions of authority"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Rituals help reinforce group membership in all of the following ways except",
+			"a":"they regulate moral behaviour",
+			"b":"they empower people",
+			"c":"they promote social cohesion",
+			"d":"they assist believers in moving beyond their group's myths"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Durkheim refers to the system of shared meanings and worldviews that bind people together as a group's",
+			"a":"collective conscience",
+			"b":"common sense knowledge",
+			"c":"unconscious collectivity",
+			"d":"ethno culture"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Traditional sociological theories have either ignored or __ women's criminal involvements.",
+			"a":"pathologized",
+			"b":"rationalized",
+			"c":"exaggerated",
+			"d":"denounced"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Of the following, which is not one of the major goals underlying Canadian content (CanCon) broadcasting regulations?",
+			"a":"displaying Canadian talent in entertainment programming",
+			"b":"offering information and analysis from a Canadian point of view",
+			"c":"reflecting Canadian attitudes, opinions, ideas, and values in programming",
+			"d":"marketing Canadian talent abroad"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"When sociologists emphasize the social, geographical, and temporal inequalities associated with access to and use of environmental resources and services, they are drawing attention to the __ distribution of crime.",
+			"a":"national",
+			"b":"geographic",
+			"c":"ecological",
+			"d":"eco-social"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"According to renowned media scholar Innis, every society needs to transcend the problems of",
+			"a":"space and place.",
+			"b":"time and space.",
+			"c":"local and global.",
+			"d":"virtual and face-to-face."
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"__ is the phenomenon whereby women experience higher rates of fear of being victimized even though men are more likely to be victims of crime.",
+			"a":"Moral panic",
+			"b":"Feminist legal theory",
+			"c":"Fear-gender paradox",
+			"d":"Public order crimes"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"When sacred symbols are integrated into the broader society regardless of their individual religious affiliations, it is known as",
+			"a":"spiritualism",
+			"b":"polytheism",
+			"c":"civil society",
+			"d":"secular religion"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"The view that it is possible to identify features that distinguish criminals from non-criminals and can then prevent, control, and eliminate criminal behaviour is",
+			"a":"positivism.",
+			"b":"biological determinism.",
+			"c":"classical criminology.",
+			"d":"strain theory."
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The belief that female offenders are treated more leniently by law enforcement officials as a result of the latter's traditional attitude toward women is known as the __ hypothesis.",
+			"a":"chivalry",
+			"b":"patriarchy",
+			"c":"paternalism",
+			"d":"androcentric"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"What factors do biological theories fail to consider with reference to crime and criminals?",
+			"a":"shape of heads",
+			"b":"anomalies in hair",
+			"c":"environmental factors",
+			"d":"body types"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Being gossiped about for being sexually promiscuous is an example of",
+			"a":"moral entrepreneurship.",
+			"b":"moral regulation.",
+			"c":"informal social control",
+			"d":"formal social control."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"__ views mass media as an important part of contemporary life; media is part of a complex and multi-faceted process in which meaning is defined through a process of ongoing interaction with others.",
+			"a":"Functionalism",
+			"b":"Conflict theory",
+			"c":"Symbolic interactionism",
+			"d":"Feminism"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Which theoretical approach is most likely to emphasize that religion provides social control through the establishment of moral standards of behaviour?",
+			"a":"functionalism",
+			"b":"conflict theory",
+			"c":"symbolic interactionism",
+			"d":"post-structuralism"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"__ refers to an organized belief system that is based on conviction that does not require objective evidence to substantiate its claims.",
+			"a":"Religion",
+			"b":"Faith",
+			"c":"Cult",
+			"d":"Worldview"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"A social landscape in which new communication technologies such as cell phones promote human interaction and contact is referred to by new media researchers as",
+			"a":"digital sociality",
+			"b":"remote interaction",
+			"c":"digital dystopia",
+			"d":"interactive digitality"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"When the mass media targets a smaller segment of the audience, it is engaged in a process known as",
+			"a":"demassification",
+			"b":"specialization",
+			"c":"niche building",
+			"d":"countermassification"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"According to a recent Statistics Canada survey, Canadians prefer to watch these kinds of television programs.",
+			"a":"comedy and drama",
+			"b":"news and public affairs",
+			"c":"documentary and sports",
+			"d":"comedy and sports"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"__ argue that most people share similar goals and values, and that when legitimate avenues to those goals are not accessible, some will resort to deviant methods to achieve them.",
+			"a":"Classical criminologists",
+			"b":"Conflict theorists",
+			"c":"Strain theorists",
+			"d":"Illegitimate opportunity theorists"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Conflict theorists suggest all of the following about religion except",
+			"a":"religion is socially constructed.",
+			"b":"religion is built on economic relationships.",
+			"c":"religion increases feelings of frustration from alienation.",
+			"d":"religion is used to control workers."
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Drawing on McLuhan's formulation of media and communication, a traditional sociology lecture is an example of __ media.",
+			"a":"hot",
+			"b":"cool",
+			"c":"lukewarm",
+			"d":"place based"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which of the following is not an example of a public order crime?",
+			"a":"prostitution",
+			"b":"gambling",
+			"c":"theft",
+			"d":"substance abuse"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A sociologist coming out of this theoretical approach is most likely to consider the mass media as an integrative transmitter of values, beliefs, and traditions across generations.",
+			"a":"structural functionalist",
+			"b":"feminist",
+			"c":"symbolic interactionist",
+			"d":"conflict theorist"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Historically, female criminals have been viewed as being",
+			"a":"sick",
+			"b":"rebellious",
+			"c":"retreatist",
+			"d":"admirable"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"A 44-year-old woman dating a 19-year-old man in contemporary Canada violates a",
+			"a":"taboo",
+			"b":"norm",
+			"c":"crime",
+			"d":"standard"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"A small religious body, with exclusive or voluntary membership, that is aloof from or hostile to the larger society is called a",
+			"a":"cult",
+			"b":"sect",
+			"c":"denomination",
+			"d":"ecclesia"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Durkheim, in his discussion of religion, separated the world into",
+			"a":"the profane and the sacred.",
+			"b":"secular and religious.",
+			"c":"beliefs and facts.",
+			"d":"evidence and unsubstantiated convictions."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Mass media refers to",
+			"a":"information and communication technologies.",
+			"b":"the transmission of messages by a person or group through a device to a large audience.",
+			"c":"ways of communicating to isolated individuals.",
+			"d":"devices designed to communicate messages to a mass audience."
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"This communication device is becoming the most common form of mobile communication among young people:",
+			"a":"Internet",
+			"b":"social networking sites",
+			"c":"text messaging",
+			"d":"cell phones"
+		},
+		"answer":"c"
+	}
+]	

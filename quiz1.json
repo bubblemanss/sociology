@@ -1,0 +1,402 @@
+[
+	{
+		"question":{
+			"q":"To what does Western Marxism refer?",
+			"a":"independent and critical forms of Marxism",
+			"b":"dogmatic forms of Marxism, practised by Soviet and Chinese regimes",
+			"c":"neo-Marxist ways of thinking",
+			"d":"forms of Marxism associated with Karl Marx"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"According to the introductory lecture by Prof. Jim Curtis in Module 1, which of the following best describes what Sociology is:",
+			"a":"The study of individual cognitive development",
+			"b":"The systematic study of individuals and their behaviour in groups and organizatons",
+			"c":"The study of crime and deviance",
+			"d":"The study of economic systems"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"The gestures, objects, and language that form the basis of human communication are known as:",
+			"a":"Folkways",
+			"b":"Norms",
+			"c":"Rites of passage",
+			"d":"Symbols"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"The discipline of sociology was given its name by the French theorist:",
+			"a":"Émile Durkheim",
+			"b":"Auguste Comte",
+			"c":"Harriet Martineau",
+			"d":"Marcel Marceau"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"According to Prof. Jim Curtis's lecture on Culture,",
+			"a":"culture is always controlled by the powerful elite.",
+			"b":"culture is merely a set of choices.",
+			"c":"culture is traditional.",
+			"d":"culture helps define for us how to respond to a situation."
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Post-structuralism is concerned with",
+			"a":"how scientific knowledge is key to human freedom.",
+			"b":"how scientific knowledge and ideas about 'truth' stand outside of power relations.",
+			"c":"how knowledge is produced scientifically.",
+			"d":"how knowledge is produced socially."
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Which of the following is a major tenet of functionalism?",
+			"a":"The social world is a dynamic system of interrelated and interdependent parts.",
+			"b":"People are in constant struggle over scarce resources.",
+			"c":"Meaning is created through ongoing interactions with others.",
+			"d":"Social structures work against people in achieving success."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"In Canadian society, we often formalize norms into:",
+			"a":"Folkways",
+			"b":"Mores",
+			"c":"Laws",
+			"d":"Values"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"The systematic study of social behaviour and human groups is known as:",
+			"a":"Psychology",
+			"b":"Political Science",
+			"c":"Anthropology",
+			"d":"Sociology"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"The term 'sociology' was coined by this theorist in 1838.",
+			"a":"Plato",
+			"b":"Peter Berger",
+			"c":"Auguste Comte",
+			"d":"Emile Durkheim"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"The tendency to assume that one's own culture and way of life represent the norm or are superior to all others is called:",
+			"a":"Culture shock",
+			"b":"Cultural relativism",
+			"c":"Ethnocentrism",
+			"d":"Values"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Anomie refers to:",
+			"a":"A model that serves as a measuring rod against which actual cases can be evaluated",
+			"b":"A loss of direction that a society feels when social control of individual behaviour has become ineffective",
+			"c":"A classification scheme containing two or more categories",
+			"d":"A type of suicide that is based on depression"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"According to Prof. Jim Curtis,",
+			"a":"culture and behaviour are seldom related.",
+			"b":"culture forms behaviour.",
+			"c":"culture does not change over time.",
+			"d":"culture means only classical art and music."
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Durkheim's concept of __ highlights the totality of a society's beliefs and sentiments.",
+			"a":"collective conscience",
+			"b":"latent function",
+			"c":"class consciousness",
+			"d":"anomie"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Macrosociology can best be defined as",
+			"a":"the study of society as a whole.",
+			"b":"applying the sociological perspectives to everyday problems.",
+			"c":"a social movement dedicated to improving the quality of mind of Canadians.",
+			"d":"the study of individual or small-group dynamics within a larger society."
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which sociological perspective believes that the most powerful groups and institutions control wealth, property, and the means of producing beliefs about reality through religion, education, and the media?",
+			"a":"Functionalist perspective",
+			"b":"Conflict perspective",
+			"c":"Interactionist perspective",
+			"d":"Dramaturgical perspective"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Which of the following perspectives emphasizes the way that parts of a society are structured to maintain its stability?",
+			"a":"Conflict theory",
+			"b":"Interactionism",
+			"c":"Functionalism",
+			"d":"Feminism"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A tentative statement about a particular relationship- whether between objects, people, or groups of people- that can be tested empiracally is a (an)",
+			"a":"variable",
+			"b":"hypothetical",
+			"c":"hypothesis",
+			"d":"deductive presupposition"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"The starting point of sociological inquiry, according to Smith, should be",
+			"a":"experience",
+			"b":"class location",
+			"c":"gender",
+			"d":"the Archimedean point"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"In a classical Marxian sense, in a capitalist economy, the worker and the owner of the means of production",
+			"a":"have deeply shared interests, in spite of the appearance of opposition",
+			"b":"are in diametrically opposed positions",
+			"c":"should learn how to understand each other's positions better in order to foster a more postitive and forward-thinking society",
+			"d":"can both prosper"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"is based on the assumption that society is grounded upon inequality and competition over scarce resources.",
+			"a":"Symbolic interactionism",
+			"b":"Conflict theory",
+			"c":"Functionalis",
+			"d":"Post-Modernism"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"Tahira is conducting a study that examines people's fears of living in what they think is an increasingly violent society. She is most likely to be drawing on which of the following research methodologies?",
+			"a":"quantitative",
+			"b":"positivistic",
+			"c":"humanistic",
+			"d":"qualitative"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Foucault was primarily interested in the ways that power and __ work together.",
+			"a":"sexuality",
+			"b":"social movements",
+			"c":"knowledge",
+			"d":"formal politics"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A study that examined the relationship between the number of hours a student studies and the grades earned on an examination amazingly found that those who studied more did better on the exam. In this example, what is the dependent variable?",
+			"a":"grades on the exam",
+			"b":"number of hours studied",
+			"c":"students",
+			"d":"sleeping"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"In The Communist Manifesto, Marx argued that the working class must:",
+			"a":"Ally with capitalists to build a better world",
+			"b":"Try to work toward a return to feudalism",
+			"c":"Overthrow the existing class system of capitalist societies",
+			"d":"Ignore all aspects of class divisions"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"An example of a positive, formal sanction is a:",
+			"a":"Salary bonus",
+			"b":"Demotion",
+			"c":"Smile",
+			"d":"Frown"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"A sociologist from this tradition is most likely to argue that society consists of diverse structures that work together for the good of the collective.",
+			"a":"functionalist",
+			"b":"structuralist",
+			"c":"symbolic interactionist",
+			"d":"post-modernist feminist"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Symbolic interactionists would argue that culture",
+			"a":"is actively created through ongoing interactions between people",
+			"b":"is the result of those in power defining a society's system of beliefs",
+			"c":"is functional for society",
+			"d":"is something that is objectively observable"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Values refer to",
+			"a":"standards by which people define what is desirable or undesirable, acceptable or unacceptable",
+			"b":"culturally defined rules that outline appropriate behavours for a society's members",
+			"c":"informal norms that do not inspire severe moral condmenation",
+			"d":"something that is formalized under the law"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Which type of research approach stands outside of power relations?",
+			"a":"qualitative",
+			"b":"in-depth interviews",
+			"c":"mail surveys",
+			"d":"No research is outside of power relationships"
+		},
+		"answer":"d"
+	},
+	{
+		"question":{
+			"q":"Using the sociological imagination, rising tuition costs would be best approached in terms of",
+			"a":"private trouble",
+			"b":"a political problem",
+			"c":"a social issue",
+			"d":"economic reality"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"Symbolic interactionism can best be defined as",
+			"a":"a macrosociological approach to exploring social problems.",
+			"b":"a perspective that asserts that people and societies are defined and created through the interactions of individuals",
+			"c":"a positivistic explanation for how knowledge and understanding are developed",
+			"d":"the tension between quantitative and qualitative approaches to sociological research"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"What type of question items do quantitative studies typically use?",
+			"a":"unstructured",
+			"b":"semi-structured",
+			"c":"structured",
+			"d":"Quantitative studies do not use questions"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"According to Mead, human behaviour is virtually always the product of",
+			"a":"competition for scarce resources",
+			"b":"biology and culture",
+			"c":"interaction with others",
+			"d":"human instincts"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A study that is rooted in a vision of the world in male terms, thereby depicting the social world as a male social universe, exemplifies __.",
+			"a":"androcentrism",
+			"b":"ethnocentrism",
+			"c":"sexual dichotomism",
+			"d":"overgeneralization"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"According to Émile Durkheim's study on suicide:",
+			"a":"Protestants have higher suicide rates than Catholics",
+			"b":"Married people have higher suicide rates than unmarried people",
+			"c":"Civilians have higher suicide rates than soldiers",
+			"d":"Suicide rates are higher during periods of prosperity than during periods of depression"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"Norms refer to",
+			"a":"standards by which people define what is desirable or undesirable, acceptable or unacceptable",
+			"b":"culturally defined rules that outline appropriate behaviours for a society's members",
+			"c":"informal rules that do not inspire sever moral condemnation",
+			"d":"something that is fomalized under the law"
+		},
+		"answer":"b"
+	},
+	{
+		"question":{
+			"q":"What two approaches does participatory action research bring together?",
+			"a":"action research and participatory research",
+			"b":"participatory observation research and interviews",
+			"c":"participatory observation and secondary analysis",
+			"d":"mixed methods and secondary analysis"
+		},
+		"answer":"a"
+	},
+	{
+		"question":{
+			"q":"The concept of verstehen was introduced into sociology by:",
+			"a":"Auguste Comte",
+			"b":"Émile Durkheim",
+			"c":"Max Weber",
+			"d":"Wright Mills"
+		},
+		"answer":"c"
+	},
+	{
+		"question":{
+			"q":"A social scientist would be likely to study the:",
+			"a":"Composition of a meteorite discovered in a remote section of Siberia",
+			"b":"Reasons for the decreasing divorce rate in Canada",
+			"c":"Newest procedure of performing heart transplant surgery",
+			"d":"Discovery of possible life on Mars"
+		},
+		"answer":"b"
+	}
+]
